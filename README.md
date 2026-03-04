@@ -60,7 +60,7 @@ After running, it prints a placeholder predicted label and confidence in the ter
 
 Documentation
 
-Methodology notes: docs/methodology.md
+Methodology notes: [Methodology](docs/methodology.md)
 
 Availability (Data + Full Code)
 
