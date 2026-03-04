@@ -24,8 +24,8 @@ A real-time skin lesion classification system using **deep learning (CNN)**, dep
 ---
 
 ## UI (Screenshots)
-![UI Home](assets/ui/ui_home.png.png)
-![UI Prediction](assets/ui/ui_prediction..png)
+![UI Home](assets/ui/ui_home.png)
+![UI Prediction](assets/ui/ui_prediction.png)
 
 ---
 
